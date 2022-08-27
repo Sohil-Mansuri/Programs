@@ -1,0 +1,14 @@
+D:\CP\GeneralTest\ExNorOperation\ExNorOperation\bin\Debug\netcoreapp3.1\ExNorOperation.exe
+D:\CP\GeneralTest\ExNorOperation\ExNorOperation\bin\Debug\netcoreapp3.1\ExNorOperation.deps.json
+D:\CP\GeneralTest\ExNorOperation\ExNorOperation\bin\Debug\netcoreapp3.1\ExNorOperation.runtimeconfig.json
+D:\CP\GeneralTest\ExNorOperation\ExNorOperation\bin\Debug\netcoreapp3.1\ExNorOperation.runtimeconfig.dev.json
+D:\CP\GeneralTest\ExNorOperation\ExNorOperation\bin\Debug\netcoreapp3.1\ExNorOperation.dll
+D:\CP\GeneralTest\ExNorOperation\ExNorOperation\bin\Debug\netcoreapp3.1\ExNorOperation.pdb
+D:\CP\GeneralTest\ExNorOperation\ExNorOperation\obj\Debug\netcoreapp3.1\ExNorOperation.csproj.AssemblyReference.cache
+D:\CP\GeneralTest\ExNorOperation\ExNorOperation\obj\Debug\netcoreapp3.1\ExNorOperation.GeneratedMSBuildEditorConfig.editorconfig
+D:\CP\GeneralTest\ExNorOperation\ExNorOperation\obj\Debug\netcoreapp3.1\ExNorOperation.AssemblyInfoInputs.cache
+D:\CP\GeneralTest\ExNorOperation\ExNorOperation\obj\Debug\netcoreapp3.1\ExNorOperation.AssemblyInfo.cs
+D:\CP\GeneralTest\ExNorOperation\ExNorOperation\obj\Debug\netcoreapp3.1\ExNorOperation.csproj.CoreCompileInputs.cache
+D:\CP\GeneralTest\ExNorOperation\ExNorOperation\obj\Debug\netcoreapp3.1\ExNorOperation.dll
+D:\CP\GeneralTest\ExNorOperation\ExNorOperation\obj\Debug\netcoreapp3.1\ExNorOperation.pdb
+D:\CP\GeneralTest\ExNorOperation\ExNorOperation\obj\Debug\netcoreapp3.1\ExNorOperation.genruntimeconfig.cache
