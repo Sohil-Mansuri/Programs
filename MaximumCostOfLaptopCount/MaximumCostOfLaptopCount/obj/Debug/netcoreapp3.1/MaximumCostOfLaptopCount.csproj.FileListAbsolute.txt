@@ -1,0 +1,14 @@
+D:\Sohil\Programs\MaximumCostOfLaptopCount\MaximumCostOfLaptopCount\bin\Debug\netcoreapp3.1\MaximumCostOfLaptopCount.exe
+D:\Sohil\Programs\MaximumCostOfLaptopCount\MaximumCostOfLaptopCount\bin\Debug\netcoreapp3.1\MaximumCostOfLaptopCount.deps.json
+D:\Sohil\Programs\MaximumCostOfLaptopCount\MaximumCostOfLaptopCount\bin\Debug\netcoreapp3.1\MaximumCostOfLaptopCount.runtimeconfig.json
+D:\Sohil\Programs\MaximumCostOfLaptopCount\MaximumCostOfLaptopCount\bin\Debug\netcoreapp3.1\MaximumCostOfLaptopCount.runtimeconfig.dev.json
+D:\Sohil\Programs\MaximumCostOfLaptopCount\MaximumCostOfLaptopCount\bin\Debug\netcoreapp3.1\MaximumCostOfLaptopCount.dll
+D:\Sohil\Programs\MaximumCostOfLaptopCount\MaximumCostOfLaptopCount\bin\Debug\netcoreapp3.1\MaximumCostOfLaptopCount.pdb
+D:\Sohil\Programs\MaximumCostOfLaptopCount\MaximumCostOfLaptopCount\obj\Debug\netcoreapp3.1\MaximumCostOfLaptopCount.csproj.AssemblyReference.cache
+D:\Sohil\Programs\MaximumCostOfLaptopCount\MaximumCostOfLaptopCount\obj\Debug\netcoreapp3.1\MaximumCostOfLaptopCount.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sohil\Programs\MaximumCostOfLaptopCount\MaximumCostOfLaptopCount\obj\Debug\netcoreapp3.1\MaximumCostOfLaptopCount.AssemblyInfoInputs.cache
+D:\Sohil\Programs\MaximumCostOfLaptopCount\MaximumCostOfLaptopCount\obj\Debug\netcoreapp3.1\MaximumCostOfLaptopCount.AssemblyInfo.cs
+D:\Sohil\Programs\MaximumCostOfLaptopCount\MaximumCostOfLaptopCount\obj\Debug\netcoreapp3.1\MaximumCostOfLaptopCount.csproj.CoreCompileInputs.cache
+D:\Sohil\Programs\MaximumCostOfLaptopCount\MaximumCostOfLaptopCount\obj\Debug\netcoreapp3.1\MaximumCostOfLaptopCount.dll
+D:\Sohil\Programs\MaximumCostOfLaptopCount\MaximumCostOfLaptopCount\obj\Debug\netcoreapp3.1\MaximumCostOfLaptopCount.pdb
+D:\Sohil\Programs\MaximumCostOfLaptopCount\MaximumCostOfLaptopCount\obj\Debug\netcoreapp3.1\MaximumCostOfLaptopCount.genruntimeconfig.cache

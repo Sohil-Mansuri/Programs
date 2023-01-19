@@ -1,0 +1,14 @@
+C:\Users\LENOVO\source\repos\ActiveTraders\ActiveTraders\bin\Debug\netcoreapp3.1\ActiveTraders.exe
+C:\Users\LENOVO\source\repos\ActiveTraders\ActiveTraders\bin\Debug\netcoreapp3.1\ActiveTraders.deps.json
+C:\Users\LENOVO\source\repos\ActiveTraders\ActiveTraders\bin\Debug\netcoreapp3.1\ActiveTraders.runtimeconfig.json
+C:\Users\LENOVO\source\repos\ActiveTraders\ActiveTraders\bin\Debug\netcoreapp3.1\ActiveTraders.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\ActiveTraders\ActiveTraders\bin\Debug\netcoreapp3.1\ActiveTraders.dll
+C:\Users\LENOVO\source\repos\ActiveTraders\ActiveTraders\bin\Debug\netcoreapp3.1\ActiveTraders.pdb
+C:\Users\LENOVO\source\repos\ActiveTraders\ActiveTraders\obj\Debug\netcoreapp3.1\ActiveTraders.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\ActiveTraders\ActiveTraders\obj\Debug\netcoreapp3.1\ActiveTraders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\ActiveTraders\ActiveTraders\obj\Debug\netcoreapp3.1\ActiveTraders.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\ActiveTraders\ActiveTraders\obj\Debug\netcoreapp3.1\ActiveTraders.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\ActiveTraders\ActiveTraders\obj\Debug\netcoreapp3.1\ActiveTraders.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\ActiveTraders\ActiveTraders\obj\Debug\netcoreapp3.1\ActiveTraders.dll
+C:\Users\LENOVO\source\repos\ActiveTraders\ActiveTraders\obj\Debug\netcoreapp3.1\ActiveTraders.pdb
+C:\Users\LENOVO\source\repos\ActiveTraders\ActiveTraders\obj\Debug\netcoreapp3.1\ActiveTraders.genruntimeconfig.cache

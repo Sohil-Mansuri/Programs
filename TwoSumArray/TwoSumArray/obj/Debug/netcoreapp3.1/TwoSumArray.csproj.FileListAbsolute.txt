@@ -1,0 +1,14 @@
+D:\Sohil\Programs\TwoSumArray\TwoSumArray\bin\Debug\netcoreapp3.1\TwoSumArray.exe
+D:\Sohil\Programs\TwoSumArray\TwoSumArray\bin\Debug\netcoreapp3.1\TwoSumArray.deps.json
+D:\Sohil\Programs\TwoSumArray\TwoSumArray\bin\Debug\netcoreapp3.1\TwoSumArray.runtimeconfig.json
+D:\Sohil\Programs\TwoSumArray\TwoSumArray\bin\Debug\netcoreapp3.1\TwoSumArray.runtimeconfig.dev.json
+D:\Sohil\Programs\TwoSumArray\TwoSumArray\bin\Debug\netcoreapp3.1\TwoSumArray.dll
+D:\Sohil\Programs\TwoSumArray\TwoSumArray\bin\Debug\netcoreapp3.1\TwoSumArray.pdb
+D:\Sohil\Programs\TwoSumArray\TwoSumArray\obj\Debug\netcoreapp3.1\TwoSumArray.csproj.AssemblyReference.cache
+D:\Sohil\Programs\TwoSumArray\TwoSumArray\obj\Debug\netcoreapp3.1\TwoSumArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sohil\Programs\TwoSumArray\TwoSumArray\obj\Debug\netcoreapp3.1\TwoSumArray.AssemblyInfoInputs.cache
+D:\Sohil\Programs\TwoSumArray\TwoSumArray\obj\Debug\netcoreapp3.1\TwoSumArray.AssemblyInfo.cs
+D:\Sohil\Programs\TwoSumArray\TwoSumArray\obj\Debug\netcoreapp3.1\TwoSumArray.csproj.CoreCompileInputs.cache
+D:\Sohil\Programs\TwoSumArray\TwoSumArray\obj\Debug\netcoreapp3.1\TwoSumArray.dll
+D:\Sohil\Programs\TwoSumArray\TwoSumArray\obj\Debug\netcoreapp3.1\TwoSumArray.pdb
+D:\Sohil\Programs\TwoSumArray\TwoSumArray\obj\Debug\netcoreapp3.1\TwoSumArray.genruntimeconfig.cache
