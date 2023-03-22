@@ -1,0 +1,7 @@
+C:\Users\LENOVO\source\repos\MatchParenthesis\MatchParenthesis\bin\Debug\MatchParenthesis.exe.config
+C:\Users\LENOVO\source\repos\MatchParenthesis\MatchParenthesis\bin\Debug\MatchParenthesis.exe
+C:\Users\LENOVO\source\repos\MatchParenthesis\MatchParenthesis\bin\Debug\MatchParenthesis.pdb
+C:\Users\LENOVO\source\repos\MatchParenthesis\MatchParenthesis\obj\Debug\MatchParenthesis.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\MatchParenthesis\MatchParenthesis\obj\Debug\MatchParenthesis.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\MatchParenthesis\MatchParenthesis\obj\Debug\MatchParenthesis.exe
+C:\Users\LENOVO\source\repos\MatchParenthesis\MatchParenthesis\obj\Debug\MatchParenthesis.pdb
